@@ -1,4 +1,4 @@
-## Fala galera 👋! Sou Elton Guilherme. Estudo Data Science e Front End.
+## Fala galera 👋! Sou Elton Guilherme! Estudo Data Science e Front End.
 <div align="center">
   <a href="https://github.com/elton-datasc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elton-datasc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
