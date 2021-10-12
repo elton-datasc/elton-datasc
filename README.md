@@ -1,4 +1,4 @@
-## Fala galera 👋! Novo por aqui 😅.No momento,estudo Python,SQL e PowerBI para análise da dados e negócios.Também comecei a estudar programação Front End (HTML e CSS).
+## Fala galera 👋! Novo por aqui 😅.No momento,estudo Python,SQL e PowerBI para análise da dados e negócios.Também comecei a estudar programação Front End (iniciando em HTML e CSS) e JavaScript (a iniciar).
 <div align="center">
   <a href="https://github.com/elton-datasc">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=elton-datasc&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
