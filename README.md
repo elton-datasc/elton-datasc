@@ -25,7 +25,7 @@
   </kbd>
   
   <kbd>
-    <kbd>DataS</kbd>
+    <kbd>DataS/RPA</kbd>
     <br>
     <br>
     <!--<img width="30px" src="./bash.svg" />-->
