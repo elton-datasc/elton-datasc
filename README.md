@@ -1,5 +1,5 @@
 ## <header>
-  <h1>Fala galera 👋!</h1>
+  <h1>Fala galera 👋!Hi folks !</h1>
     No momento,estudo Python,SQL,Excel VBA e PowerBI para análise da dados e negócios.Também comecei a buscar conhecimento sobre Front End (iniciando por HTML e CSS).
     </header>
     <br>
