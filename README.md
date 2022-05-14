@@ -22,7 +22,7 @@
     <!--<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />-->
-  <!--</kbd>
+  </kbd>
   
   <kbd>
     <kbd>DataS/RPA</kbd>
