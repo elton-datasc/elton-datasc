@@ -1,6 +1,6 @@
 ## <header>
   <h1>Fala galera 👋!Hi folks !</h1>
-    No momento,estudo Python,SQL,Excel VBA e PowerBI para análise da dados e negócios.Também comecei a buscar conhecimento sobre Front End (iniciando por HTML e CSS).
+    No momento,estudo Python,SQL,Microsoft Azure e Apache Spark para engenharia de dados e análise  de negócios.Também sou curuiso sobre Front End (iniciando por HTML e CSS).
     </header>
     <br>
     
