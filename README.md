@@ -1,8 +1,8 @@
 # 👋 Fala galera! | Hi folks!
 
-Sou **Engenheiro de Dados e IA Generativa**, com experiência em construção de pipelines de dados, arquiteturas Lakehouse, processamento distribuído, aplicações com LLMs e soluções conversacionais em Cloud.
+Sou **Engenheiro de Dados e IA Generativa**, com experiência em construção de pipelines de dados, arquiteturas Lakehouse, processamento distribuído, aplicações com LLMs e soluções conversacionais de IA.
 
-Atuo principalmente com **Python, SQL, PySpark, Databricks, Microsoft Azure, Docker, LangChain e LangGraph**, além de projetos envolvendo **RAG, Vector Databases, agentes de IA e integração com modelos da OpenAI**.
+Atuo principalmente com **Python, SQL, PySpark, Databricks, Microsoft Azure, Docker, LangChain e LangGraph**, além de projetos envolvendo **RAG, Vector Databases, agentes de IA e integração com modelos Dde IA**.
 
 Data Engineer & Generative AI Engineer focused on building scalable data pipelines, Lakehouse architectures, LLM applications, RAG systems and AI-powered solutions.
 
